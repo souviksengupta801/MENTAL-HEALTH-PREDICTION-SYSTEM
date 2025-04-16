@@ -1,6 +1,6 @@
-#########################=
+===================================================
 MENTAL HEALTH PREDICTION SYSTEM
-#########################=
+===================================================
 
 This system uses facial analysis and psychometric assessments to predict mental states, emotional well-being, and potential behavioral tendencies based on age groups.
 
